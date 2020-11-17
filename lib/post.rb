@@ -5,7 +5,7 @@ class Post
   @@all_post = []
   
   def initialize(name)
-    @name = name
+    @title = name
     save
   end
   
