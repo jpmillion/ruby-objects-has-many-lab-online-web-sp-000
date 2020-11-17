@@ -14,6 +14,6 @@ class Post
   end
   
   def self.all 
-    @@all_post
+    @@all
   end
 end
